@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and HackPHP
 - 💞️ I’m looking for internships and to collaborate on projects and researches alike
 - 📫 You can reach me via email @owusuomaribright@gmail.com
-- ⚡ Fun fact: I'm probably the best front end developer in the world
+- ⚡ Fun fact: I'm the best front end developer I know
 - 
 
 <!---
