@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Owusu Bright Omari @omariomari2
 - 👀 I’m interested in programmign and web development
-- 🌱 I’m currently learning C++ and HackPHP
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking for internships and to collaborate on projects and researches alike
 - 📫 You can reach me via email @owusuomaribright@gmail.com
 - ⚡ Fun fact: I'm the best front end developer I know
