@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Owusu Bright Omari @omariomari2
+- 👋 I'm a freshman Cybersecurity major at Grambling State University
 - 👀 I’m interested in task automation and web development
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking for internships and to collaborate on projects and researches alike
