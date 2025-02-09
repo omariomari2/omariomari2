@@ -1,14 +1,5 @@
 - 👋 Hi, I’m Owusu Bright Omari @omariomari2
 - 👋 I'm a freshman Cybersecurity major at Grambling State University
-
-- 
-                                   0 O O O        M M        M M         AA        R R R R R      I I I I  
-                                 O 0     O O      M M M    M M M       AA  AA      R R      R       I I  
-                                 O 0     O O      M M  M  M  M M      AAAAAAAA     R R R R R        I I  
-                                 O 0     O O      M M   M    M M     AA      AA    R R    R R       I I  
-                                   0 O O O        M M        M M    AA        AA   R R      R R   I I I I 
--
--
 - 👀 I’m interested in task automation and web development
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking for internships and to collaborate on projects and researches alike
@@ -20,3 +11,8 @@ omariomari2/omariomari2 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
                                                       
+                                   0 O O O        M M        M M         AA        R R R R R      I I I I  
+                                 O 0     O O      M M M    M M M       AA  AA      R R      R       I I  
+                                 O 0     O O      M M  M  M  M M      AAAAAAAA     R R R R R        I I  
+                                 O 0     O O      M M   M    M M     AA      AA    R R    R R       I I  
+                                   0 O O O        M M        M M    AA        AA   R R      R R   I I I I 
