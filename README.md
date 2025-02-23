@@ -2,7 +2,6 @@
 - 👋 I'm a freshman Cybersecurity major at Grambling State University
 - 👀 I’m interested in task automation and web development
 - 🌱 I’m currently learning React 
-- 💞️ I am looking for internships and to collaborate on projects and researches alike
 - 📫 You can reach me via email @owusuomaribright@gmail.com
 - ⚡ Fun fact: I'm the best web developer I know
 
