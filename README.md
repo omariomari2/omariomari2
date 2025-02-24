@@ -1,6 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br><br>
-I'm Omari 🌍 <br> 
-CS/Cybersecurity @ GSU <br> <br>* 🖥️ View my portfolio at [View my Portfolio:](http://omariomari2.github.io/Personal-Website/)  <br>✉️  You can contact me at [owusuomaribright@gmail.com](mailto:owusuomaribright@gmail.com) <br> 🧠 React <br>🤝  I am open to collaborating on researches, internships, and opportunities that will expand my knowledge and connect me with like minded professionals
+<div> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" <br><br> I'm Omari 🌍 </div>
+Computer Science/Cybersecurity @ GSU <br> <br>🖥️ View my portfolio at http://omariomari2.github.io/Personal-Website/  <br>✉️  You can contact me at mailto:owusuomaribright@gmail.com <br> 🧠 React <br>🤝  I am open to collaborating on researches, internships, and opportunities that will expand my knowledge and connect me with like minded professionals
 
 ### Skills  
 
