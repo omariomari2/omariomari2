@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Omari!;Welcome+to+my+Github;Explore+!" />
 </h1>
-<h3 align="left"> <a href="https://omariomari2.github.io/Personal-Website/" target="__blank">Full-Stack Developer</a> | <a href="https://omariomari2.github.io/Projects-Display/" target="__blank">Software Engineer</a> | Cybersecurity | Student</h3> <br>
+<h3 align="left"> <a href="https://welcome-to-church.netlify.app/" target="_blank">Full-Stack Developer</a> | <a href="https://github.com/omariomari2/Website-Vulnerability-Scanner/blob/main/wvs%20demo.gif" target="_blank">Software Engineer </a> | Cybersecurity | Student</h3> <br>
 
 <h2 align="left">SKILLS</h2>
 
