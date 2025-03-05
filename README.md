@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Omari!;Welcome+to+my+Github;Explore+!" />
 </h1>
 <h3 align="left"> <a href="https://welcome-to-church.netlify.app/" target="_blank">Full-Stack Developer</a> | <a href="https://github.com/omariomari2/Website-Vulnerability-Scanner/blob/main/wvs%20demo.gif" target="_blank">Software Engineer </a> | Cybersecurity | Student</h3> <br>
@@ -13,6 +13,7 @@
   </a>
 </p>
 <h2 align="left">My GitHub Stats</h2>
+
 <div align="left">
-    <a href="http://www.github.com/omariomari2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omariomari2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="http://www.github.com/omariomari2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omariomari2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 </div>
