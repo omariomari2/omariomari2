@@ -9,7 +9,7 @@
 <h2 align="left">SOCIALS</h2>
 
 <p align="left">
-    <a href="https://omariomari2.github.io/Personal-Website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=black" target="_blank" />
+    <a href="https://omariportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=black" target="_blank" />
   </a>
 <a href="https://www.linkedin.com/in/owusuomaribright" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p> 
