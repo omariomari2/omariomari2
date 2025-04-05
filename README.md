@@ -20,7 +20,7 @@
 <h2 align="left">🔗 CONNECT WITH ME</h2>
 
 <p align="left">
-  <a href="https://omariportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=black" target="_blank" /></a>
+  <a href="https://omariomari2.github.io/Projects-Display/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=black" target="_blank" /></a>
   <a href="https://www.linkedin.com/in/owusuomaribright" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="mailto:owusuomaribright@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
