@@ -8,7 +8,8 @@
 💡 Passionate about creating scalable apps, strengthening cybersecurity practices, and bridging the gap between technology and privacy
 
 💬 Let’s chat about Python, JavaScript, React, Node.js, Web Security, Cloud Infrastructure, or anything else in tech
-🌍 Let’s collaborate on researches and projects likewise!
+
+🌍 I'm open to collaborate on research and projects likewise!
 
 🎯 Fun fact: I’m always working on projects that mix my love for coding with social impact, like mental health awareness apps and security tools
 
