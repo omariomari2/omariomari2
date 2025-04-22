@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Omari!;Full-Stack+Developer;Cybersecurity+Enthusiast!&color=0891b2" />
 </h1>
 
-# Cybersecurity | Software Engineer | Full-Stack Developer | Digital Privacy Advocate
+# SWE | Cloud security | Research Science | FullStack Development
 🛡️ Currently building secure, data-driven solutions that protect users and enhance digital experiences
 
 💡 Passionate about creating scalable apps, strengthening cybersecurity practices, and bridging the gap between technology and privacy
