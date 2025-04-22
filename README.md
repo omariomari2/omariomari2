@@ -1,17 +1,14 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Omari!;Full-Stack+Developer;Cybersecurity+Enthusiast!&color=0891b2" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!;I'm+Omari!;Software+Engineering;Cybersecurity+Enthusiast,AWS!&color=0891b2" />
 </h1>
 
-# SWE | Cloud security | Research Science | FullStack Development
-🛡️ Currently building secure, data-driven solutions that protect users and enhance digital experiences
+# SWE | Cloud security (AWS) | Research Science | FullStack Development
+🛡️ Currently learning and reading into Cloud Computing.
 
-💡 Passionate about creating scalable apps, strengthening cybersecurity practices, and bridging the gap between technology and privacy
-
-💬 Let’s chat about Python, JavaScript, React, Node.js, Web Security, Cloud Infrastructure, or anything else in tech
+🎯 AWS || Microsoft Azure
 
 🌍 I'm open to collaborate on research and projects likewise!
 
-🎯 Fun fact: I’m always working on projects that mix my love for coding with social impact, like mental health awareness apps and security tools
 
 <h1 align="left">⚡ SKILLS</h1>
 
