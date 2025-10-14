@@ -1,8 +1,9 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hey+there!;I'm+Bright+Owusu!;Backend+Engineer+|+Cloud+Builder;Security+Strategist+|+GSU+Tech+Leader&color=0891b2" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hey+there!;I'm+Bright+Owusu!;Backend+Engineer;Cloud+Builder;Security+Strategist;GSU+Tech+Leader&color=0891b2" />
 </h1>
 
-### Cloud & Security (AWS, GCD) | Full-Stack Development | ORDA RIDES
+
+### Cloud & Security (AWS, GCD) | Full-Stack Development 
 
 > 💻 Aspiring [SWE / Cloud Engineer](https://omaribrightswe.dpdns.org/) and Founding team member of [Orda Rides](https://www.ordarides.com)
 
