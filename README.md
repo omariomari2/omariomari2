@@ -37,21 +37,6 @@
 
 ---
 
-<h2 align="left">🚀 FEATURED PROJECTS</h2>
-<p align="left">
-  <a href="https://www.ordarides.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ORDA_RIDES-FF6B35?style=for-the-badge&logo=car&logoColor=white" alt="ORDA RIDES" />
-  </a>
-  <a href="https://omariomari2.github.io/Go-Shop/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Go_Shop-28A745?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Go-Shop" />
-  </a>
-  <a href="https://omariomari2.github.io/web-pom-etis/" target="_blank">
-    <img src="https://img.shields.io/badge/Pomodoro_Play-9C27B0?style=for-the-badge&logo=clock&logoColor=white" alt="Pomodoro Play" />
-  </a>
-</p>
-
----
-
 <h2 align="left">🔗 CONNECT WITH ME</h2>
 
 <p align="left">
