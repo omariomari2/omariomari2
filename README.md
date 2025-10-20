@@ -3,7 +3,7 @@
 </h1>
 
 
-### Cloud & Security (AWS, GCD) | Full-Stack Development 
+### Cloud & Security (AWS, GCD, CloudFlare) | Full-Stack Development 
 
 > 💻 Aspiring [SWE / Cloud Engineer](https://omaribrightswe.dpdns.org/) and Founding team member of [Orda Rides](https://www.ordarides.com)
 
