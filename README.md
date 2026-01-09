@@ -1,5 +1,4 @@
-### SDE
-### Cloud Engineering & Cybersecurity
+### SDE <br> Cloud Engineering & Cybersecurity
 
 - Co-founder, Software Dev @ [Orda Rides](https://www.ordarides.com)
 - Also building at [GoShopGhana](https://goshopghana.com/), [Gdirst](https://gdirst.com/)
