@@ -1,4 +1,4 @@
-## Software Dev
+### SDE
 ### Cloud Engineering & Cybersecurity
 
 - Co-founder, Software Dev @ [Orda Rides](https://www.ordarides.com)
