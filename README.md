@@ -1,5 +1,6 @@
-### SDE <br> Cloud Engineering & Cybersecurity
+## [Software Engineer](https://omariomari2.github.io/openauth-deployment/)
 
+- Cloud Engineering & Cybersecurity
 - Co-founder, Software Dev @ [Orda Rides](https://www.ordarides.com)
 - Also building at [GoShopGhana](https://goshopghana.com/), [Gdirst](https://gdirst.com/)
 - Currently learning: Databases and Domain Management with PHP in Cpanel
