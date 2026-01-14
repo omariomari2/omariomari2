@@ -1,4 +1,4 @@
-## [Software Engineer](https://omariomari2.github.io/openauth-deployment/)
+## [Software Engineer](https://omari.is-a.dev)
 
 - Cloud Engineering & Cybersecurity
 - Co-founder, Software Dev @ [Orda Rides](https://www.ordarides.com)
