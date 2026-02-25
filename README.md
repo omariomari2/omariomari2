@@ -1,6 +1,6 @@
 ## [Software Engineer](https://omari.is-a.dev)
 
-- Co-founder, Software Dev @ [Orda Rides](https://www.ordarides.com)
+- Co-founder, Software Dev @ [Orda Rides]()
 - Also building at [GoShopGhana](https://goshopghana.com/), [Gdirst](https://gdirst.com/)
 - Currently learning: AI Integration and Workflow Automation
 - Currently building: Automated [Legacy Code Migration Tool](https://github.com/omariomari2/uncluster) in Go
